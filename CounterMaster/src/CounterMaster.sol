@@ -58,4 +58,11 @@ contract Counter {
 geth --networkid "123" --rpc --rpcaddr "172.16.234.28" --rpcport 8545 --rpccorsdomain "*" --rpcapi "net,eth,web3,personal" --datadir "eth_data" --testnet console
 
 geth --networkid "123" --rpc --rpcaddr "172.16.234.28" --rpcport 8545 --rpccorsdomain "*" --rpcapi "net,eth,web3,personal" --datadir "eth_testdata" --testnet console
+
+
+Account
+0x938b987ebb7652556f3e014549e48a29183abea9
+
+CounterMaster at
+0x3bf7250ceaa00d27646307f3125ef6d3e33f51ef
 */
